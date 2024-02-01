@@ -179,8 +179,8 @@ gc_set = set()
 for name in gc_str.splitlines():
     if("\t" not in name):
         gc_set.add(name.split()[0])
-    
-    print("hello world my name is adarsh and I'm editing in vim wow.")
+
+# adding another comment here again wowo.
 res_arr = resident_str.splitlines()
 
 all_res_in = True
