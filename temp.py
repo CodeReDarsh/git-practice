@@ -191,3 +191,4 @@ for fname in res_arr:
         print(fname)
 
 print("Are all residents in? ", all_res_in)
+###
